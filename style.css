@@ -157,7 +157,6 @@ a.nav-link {
 
 /* Styling for the aside section */
 .aside-section {
-  /* border: 1px solid #ddd; */
   border:1px solid grey;
   border-radius:0.5rem;
   height: 100%; /* Full vertical height */
@@ -345,7 +344,6 @@ i.fas.fa-chart-line {
 }
 
 .listitems{
-  /* position: relative; */
   display: flex;
   flex-direction: column;
   padding:10px 10px;
@@ -353,12 +351,10 @@ i.fas.fa-chart-line {
 
 .lists{
   position: relative;
-  /* display: inline-block; */
   display:flex;
   align-items: center;
   justify-content: space-between;
   font-size: 13px;
-  /* padding:8px; */
   border:1px solid transparent;
 }
 
@@ -370,7 +366,6 @@ i.fas.fa-chart-line {
   background-color:rgba(118, 184, 249, 255);
   color:white;
   padding:2px 2px;
-  /* margin-left:50px; */
 }
 
 a.list-group-item {
